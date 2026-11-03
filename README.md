@@ -18,6 +18,16 @@ This repository contains my **Problem Solving Using Object-Oriented Programming 
 
 The programs are organized by practical number to make them easy to navigate, compile, and execute.
 
+## 👨‍🎓 Student Information
+
+| Detail | Information |
+|---|---|
+| **Name** | Siddharth Kumbhar |
+| **PRN** | 202501110143 |
+| **Program** | B.Tech – Computer Science and Engineering (AI & ML) |
+| **Institution** | MIT Academy of Engineering |
+| **Academic Year** | 2026–27 |
+
 ## 📚 Practical Index
 
 | Practical | Topic | Key Concepts |
